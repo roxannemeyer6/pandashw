@@ -1,8 +1,9 @@
-# PyCitySchools
-#repository for my pandas homework
-for this homework, I acted as the new Chief Data Scientist for a city's school district. In this capacity, I helped the school board and mayor make strategic decisions regarding future school budgets and priorities.
+PyCitySchools
+Please note that I worked with both Joel Ortega and Moises Contreras from our class for trouble shooting and some brainstorming where needed.
 
-#For my first task, I was asked to analyze the district-wide standardized test results. I waS given access to every student's math and reading scores, as well as various information on the schools they attend. My task was to aggregate the data to showcase obvious trends in school performance.
+For this homework, I acted as the new Chief Data Scientist for a city's school district. In this capacity, I helped the school board and mayor make strategic decisions regarding future school budgets and priorities.
+
+For my first task, I was asked to analyze the district-wide standardized test results. I waS given access to every student's math and reading scores, as well as various information on the schools they attend. My task was to aggregate the data to showcase obvious trends in school performance.
 
 Specifically, we have 
 #District Summary
